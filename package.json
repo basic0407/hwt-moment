@@ -1,0 +1,24 @@
+{
+  "name": "hwt-moment",
+  "version": "1.0.0",
+  "description": "how to use moment",
+  "main": "app.js",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/basic0407/hwt-moment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basic0407/hwt-moment/issues"
+  },
+  "homepage": "https://github.com/basic0407/hwt-moment#readme"
+}
